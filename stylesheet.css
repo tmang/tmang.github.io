@@ -57,8 +57,8 @@ ul.nav li {
 
 @media only screen and (max-width: 480px){
   #content {
-    font-size:16px !important;
-    padding: 2% 2%;
+    font-size:18px !important;
+    padding: 2% 1%;
   }
 }
 
